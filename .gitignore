@@ -1,0 +1,9 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/*
+!.vscode/settings.json
+*.user
+*.suo
+.DS_Store
+Thumbs.db

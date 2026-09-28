@@ -1,0 +1,20 @@
+{
+"editor.fontSize": 13,
+"terminal.integrated.fontSize": 13,
+  "chat.disableAIFeatures": true,
+  "dotnet.codeLens.enableReferencesCodeLens": false,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": true,
+  "editor.stickyScroll.enabled": false,
+  "editor.inlayHints.enabled": "off",
+  "editor.formatOnSave": true,
+  "explorer.compactFolders": false,
+  "explorer.excludeGitIgnore": true,
+  "files.exclude": {
+    ".devcontainer": true,
+    ".vscode": true,
+    ".gitignore": true,
+    "ConsoleApp.slnx": true,
+    "**/*.csproj": true
+  }
+}
