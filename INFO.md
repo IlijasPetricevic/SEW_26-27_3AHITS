@@ -5,7 +5,7 @@ GitHub Codespace für C# Entwicklung
 Im Terminal:
 
 ```sh
-./new.sh Übung_1_1
+./new.sh Uebung_1_1
 ```
 
 Verwende die Übungsbezeichnung als Projektnamen.
