@@ -8,7 +8,7 @@ class Program
 {   
     static int GetNote(int points)
     {
-        int note;
+        int note = 0;
 
         if (points < 12)
             {
